@@ -23,6 +23,8 @@ npm create vite@latest
 - Personally, I like to separate my React component hierarchy in three tiers - Pages, Sections, and Components
 - If your project includes typescript, use `ts` and `tsx`, not `js` and `jsx`
 
+Example:
+
 ```
 src/
 ├── assets/              # Static files: images, fonts, icons
