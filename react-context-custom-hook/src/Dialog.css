@@ -1,0 +1,14 @@
+.Dialog{
+    width: 90% vw;
+    border: 2px solid whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.Dialog p {
+    color: whitesmoke;
+    font-size: larger;
+    font-weight: bold;
+}

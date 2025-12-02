@@ -1,0 +1,11 @@
+.FireButton {
+    width: 8rem;
+    height: 8rem;
+    border-radius: 100%;
+    background-color:	#ff8f00;
+    font-size: 1.7rem;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    cursor: pointer;
+}
